@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(F:\play-2.4.6\play-java\conf\application.conf,F:\play-2.4.6\play-java\target\scala-2.11\classes\application.conf)
+[debug] 	(F:\play-2.4.6\play-java\conf\evolutions,F:\play-2.4.6\play-java\target\scala-2.11\classes\evolutions)
+[debug] 	(F:\play-2.4.6\play-java\conf\logback.xml,F:\play-2.4.6\play-java\target\scala-2.11\classes\logback.xml)
+[debug] 	(F:\play-2.4.6\play-java\conf\routes,F:\play-2.4.6\play-java\target\scala-2.11\classes\routes)
+[debug] 	(F:\play-2.4.6\play-java\conf\evolutions\default,F:\play-2.4.6\play-java\target\scala-2.11\classes\evolutions\default)
+[debug] 	(F:\play-2.4.6\play-java\conf\evolutions\default\1.sql,F:\play-2.4.6\play-java\target\scala-2.11\classes\evolutions\default\1.sql)

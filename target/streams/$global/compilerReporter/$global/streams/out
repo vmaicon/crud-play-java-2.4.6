@@ -1,0 +1,4 @@
+[error] F:\play-2.4.6\play-java\app\controllers\Global.java:28: cannot find symbol
+[error]   symbol:   method redirect(java.lang.String)
+[error]   location: class Global
+[error] redirect
